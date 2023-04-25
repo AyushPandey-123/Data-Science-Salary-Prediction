@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
 <h3 align="center">Machine Learning Student</h3>
 
-- 🔭 I’m currently working on [Data Science Salary Prediction](https://github.com/AyushPandey-123/Data-Science-Salary)
+- 🔭 I’m currently working on [Data Science Salary Prediction](https://github.com/AyushPandey-123/Data-Science-Salary-Prediction)
 
 - 🌱 I’m currently learning **Python, Machine Learning, Flask, AWS**
 
